@@ -1,2 +1,2 @@
 # webhook-test
-test 24
+test 2
